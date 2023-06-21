@@ -12,5 +12,5 @@
 Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
 
 
-https://github.com/farhanjaa/WarriorProgrammer/assets/76620007/e2644a1c-c6f8-452b-896b-d918601f6383
+
 
